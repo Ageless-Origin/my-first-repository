@@ -16,6 +16,7 @@ header {
 
 main {
     min-height: 80vh;
+    background-color: rgb(246, 246, 246);
 }
 
 section {
