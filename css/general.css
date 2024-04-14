@@ -16,10 +16,31 @@ header {
 
 main {
     min-height: 80vh;
+    background-color: rgb(246, 246, 246);
 }
 
 section {
     padding: 2rem 5rem;
+}
+
+.timer {
+    background-color: rgb(255, 224, 224);
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-direction-row {
+    flex-direction: row;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.gap-1 {
+    gap: 1rem;
 }
 
 img {
